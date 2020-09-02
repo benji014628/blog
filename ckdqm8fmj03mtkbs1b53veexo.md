@@ -12,3 +12,4 @@ As VS Code has become one of the highly used IDE by so many developers, here are
 -  [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) is pretty handy to view CSS in HTML and rewrite without endlessly searching for that one line of code.
 -  [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) for commenting code in a more human-friendly way and helps distinguish them easily.
 -  [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is a remarkable extension to customize your code format.
+-  [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) and  [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) are fantastic for keeping updated on your file changes.
