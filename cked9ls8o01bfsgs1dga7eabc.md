@@ -1,4 +1,4 @@
-## Build a Journal App w/ Vanilla JS
+## Build a Journal App w/ Quote Generator
 
 # Build a Journal App w/ Vanilla JS
 
@@ -284,4 +284,4 @@ document.getElementById('2020').innerHTML = `<h2>2020</h2>` + txt;
 
 # Summary
 
-Please let me know your thoughts down in the comments. Thanks! Here is the full  [GitHub repo](https://github.com/benji014628/git-examples/tree/master/journal) 
+Please let me know your thoughts down in the comments. Thanks!
