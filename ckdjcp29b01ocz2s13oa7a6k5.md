@@ -12,5 +12,5 @@ Web vitals is [web.dev/vitals](https://web.dev.com/vitals) but provides instant 
 
 Now for all the colors, CSS Peeper can't find such as on images, etc. This [tool](https://chrome.google.com/webstore/detail/rainbow-color-picker/mlcjgkkpemdfclhfehjpgaaagkfpnnki) can find them.
 
-### Thank you for reading, and let's connect!
+### Thank you for reading
 Thank you for reading my blog. Feel free to subscribe to my email newsletter and connect on [Twitter!](https://twitter.com/JakeL725)
