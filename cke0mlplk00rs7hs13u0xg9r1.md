@@ -109,7 +109,7 @@ module.exports = {
 
 You've finally set up TailwindCSS with IntelliSense and the typography plugin. Follow these steps for all your future Tailwind projects.
 
-Thanks for reading, and enjoy coding with your new CSS framework!
+Thank you for reading my blog and enjoy coding with your new CSS framework! Feel free to subscribe to my email newsletter and connect on Twitter.
 
 
 
