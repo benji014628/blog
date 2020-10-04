@@ -23,7 +23,7 @@ To plan our app, we must first outline steps.
 ### **HTML**
 
 
-```alpha
+```
 // element, year, and tag name can be anything you want
 <section id="2020"></section>
 <section include-html="2019.json"></section>
@@ -35,7 +35,7 @@ To plan our app, we must first outline steps.
 ### JS
 
 
-```alpha
+```
 function includeHTML() {
   var z,
     elmnt,
@@ -59,7 +59,7 @@ function includeHTML() {
 ### JSON
 
 
-```alpha
+```
 {
   "year": 2019,
   "div": [
@@ -85,7 +85,7 @@ function includeHTML() {
 
 ### JS
 
-```alpha
+```
 var currentYear = [
   { month: 'December', p: '' },
   { month: 'November', p: '' },
@@ -159,7 +159,7 @@ function includeHTML() {
 
 ### JS
 
-```alpha
+```
 var currentYear = [
   { month: 'December', p: '' },
   { month: 'November', p: '' },
@@ -247,7 +247,7 @@ function includeHTML() {
 Before all the code we’ve written:
 
 
-```alpha
+```
 var currentYear = [
   { month: 'December', p: '' },
   { month: 'November', p: '' },
