@@ -8,7 +8,7 @@ You're ready to start on a fresh new project and to use the nifty [utility-first
 
 Choose a folder or create a new one with your project name. The quickest approach to do this is through the terminal by simply typing:
 
-```
+```alpha
 mkdir tailwind-beginner-project
 ``` 
 
