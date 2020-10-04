@@ -7,4 +7,4 @@ Participating in this challenge was a fantastic way to continue growing my writi
 - code snippets and tutorials
 - side preview of my projects
 
-Thanks for reading!
+Thank you for reading my blog. Feel free to subscribe to my email newsletter and connect on Twitter!
