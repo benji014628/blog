@@ -19,7 +19,7 @@ Next, we're going to initialize npm, which will give us a `package.json` file an
 ```
 cd tailwind-beginner-project
 npm init -y
-``` 
+``` alpha
 
 ## 2. Install Tailwind via npm
 
