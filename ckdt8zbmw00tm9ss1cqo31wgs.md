@@ -19,7 +19,6 @@ Though he doesn't upload videos as regularly as the first two, they are excellen
 Teamtreehouse is a prominent resource to learn new skills, level up old ones, and earn a new job. They offer 300 + courses, 278 workshops, and 23 topics with over 50k+ current students.
 
 ## 5.  [Codecademy](https://www.codecademy.com/learn) 
-
 Codecademy like Teamtreehouse offers excellent courses for developers to learn and obtain the skills and knowledge they need.
 
 ### Thank you for reading, and let's connect!
