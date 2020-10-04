@@ -25,13 +25,11 @@ npm init -y
 
 Now to install TailwindCSS, simply run:
 
-
 ```
 npm i tailwindcss
 ``` 
 
 You can open your package.json and you should see tailwindcss under your dependencies:
-
 
 ```
 {
