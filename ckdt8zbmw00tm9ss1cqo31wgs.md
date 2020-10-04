@@ -22,5 +22,6 @@ Teamtreehouse is a prominent resource to learn new skills, level up old ones, an
 Codecademy like Teamtreehouse offers excellent courses for developers to learn and obtain the skills and knowledge they need.
 
 ### Thank you for reading
+
 Thank you for reading my blog. Feel free to subscribe to my email newsletter and connect on Twitter!
 
