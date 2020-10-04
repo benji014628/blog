@@ -16,7 +16,6 @@ mkdir tailwind-beginner-project
 
 Next, we're going to initialize npm, which will give us a `package.json` file and the ability to install TailwindCSS:
 
-
 ```
 cd tailwind-beginner-project
 npm init -y
