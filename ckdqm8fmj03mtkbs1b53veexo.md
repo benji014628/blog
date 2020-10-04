@@ -4,7 +4,7 @@ As VS Code has become one of the highly used IDE by so many developers, here are
 
 # Extensions
 
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) is first on the list for obvious reasons, a live local server to see your code on a browser.
+-[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) is first on the list for obvious reasons, a live local server to see your code on a browser.
 -  [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) not one I see talked about but all the bit useful, packed with tiny use case features that some other extensions copy. 
 -  [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) is an excellent tool to debug your Javascript with live comments, logging, values, and much more!
 -  [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) is a small yet incredible lifesaver if and when your folders overflood with loads of folders and files in each other.
