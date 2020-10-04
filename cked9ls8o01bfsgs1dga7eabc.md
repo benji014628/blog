@@ -1,11 +1,8 @@
 ## Build a Journal App w/ Quote Generator
 
-# Build a Journal App w/ Vanilla JS
-
-
 Hello everyone! I will be going through a step-by-step tutorial on how you can plan, design, and build your very own Journal site.
 
-# Prerequisites
+### Prerequisites
 
 *   Beginner to intermediate knowledge in JavaScript
 *   An IDE installed
@@ -21,9 +18,9 @@ To plan our app, we must first outline steps.
 *   Parse JSON to HTML
 *   Add current year (optional)
 
-# Step 1: function includeHTML()
+## Step 1: function includeHTML()
 
-## **HTML**
+### **HTML**
 
 
 ```
@@ -35,7 +32,7 @@ To plan our app, we must first outline steps.
 ```
 
 
-## JS
+### JS
 
 
 ```
@@ -59,7 +56,7 @@ function includeHTML() {
 ```
 
 
-## JSON
+### JSON
 
 
 ```
@@ -84,9 +81,9 @@ function includeHTML() {
 ```
 
 
-# Step 2: new XMLHttpRequest()
+## Step 2: new XMLHttpRequest()
 
-## JS
+### JS
 
 ```
 var currentYear = [
@@ -158,9 +155,9 @@ function includeHTML() {
 ```
 
 
-# Step 3: Parse JSON
+## Step 3: Parse JSON
 
-## JS
+### JS
 
 ```
 var currentYear = [
@@ -243,9 +240,9 @@ function includeHTML() {
 ```
 
 
-# Step 4: Add current year (optional)
+## Step 4: Add current year (optional)
 
-## JS
+### JS
 
 Before all the code we’ve written:
 
@@ -280,8 +277,5 @@ document.getElementById('2020').innerHTML = `<h2>2020</h2>` + txt;
 
 // function includeHTML()...
 ```
-
-
-# Summary
 
 Please let me know your thoughts down in the comments. Thanks!
