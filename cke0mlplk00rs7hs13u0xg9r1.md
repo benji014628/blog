@@ -25,13 +25,13 @@ npm init -y
 
 Now to install TailwindCSS, simply run:
 
-```
+```alpha
 npm i tailwindcss
 ``` 
 
 You can open your package.json and you should see tailwindcss under your dependencies:
 
-```
+```alpha
 {
   "name": "tailwind-beginner-project",
   "version": "1.0.0",
@@ -51,7 +51,7 @@ You can open your package.json and you should see tailwindcss under your depende
 
 Next, we need to set up a CSS file for our project. Create a new CSS file in your project and name it whatever you want. Mine will be main.css. Then, in that file, include these three Tailwind directives:
 
-```
+```alpha
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -60,7 +60,7 @@ Tailwind will swap these directives out at build time with all of its generated 
 
 If you are eager to drop over to your HTML and begin coding, we only need to do two small steps. First, go over to your package.json file and under the ending brace of "dependencies" add this:
 
-```
+```alpha
 "scripts": {
     "build": "tailwindcss build main.css -o tailwind.css"
   }
@@ -69,7 +69,7 @@ If you are eager to drop over to your HTML and begin coding, we only need to do 
 
 And run this script in your terminal:
 
-```
+```alpha
 npm run build
 ```
 Congrats! You've now installed TailwindCSS and have it running. Now you might be wondering how to customize these new utilities well in these next steps are for you.
@@ -78,7 +78,7 @@ Congrats! You've now installed TailwindCSS and have it running. Now you might be
 
 You can generate a config file for your project by typing: 
 
-```
+```alpha
 npx tailwindcss init
 ```
 Hopefully, you see a new `tailwind.config.js` fill pop up in your project and can now start working on your project, unless you want a handy extension, into typography or both! 
@@ -87,13 +87,13 @@ Hopefully, you see a new `tailwind.config.js` fill pop up in your project and ca
 
 Go over to your activity panel, click on the symbol with those four boxes, and search `Tailwind CSS IntelliSense` and press install. Next to install the typography plugin open up the terminal and type:
 
-```
+```alpha
 npm install @tailwindcss/typography
 ```
 
 Then add the plugin to your tailwind.config.js file:
 
-```
+```alpha
 module.exports = {
   purge: [],
   theme: {
