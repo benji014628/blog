@@ -19,4 +19,4 @@ To learn more, I recommend the following resources:
 - [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE&t)
 - [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s&t=1s)
 
-Thanks for reading and leave a comment or like the story.
+Thank you for reading my blog. Feel free to subscribe to my email newsletter and connect on Twitter!
