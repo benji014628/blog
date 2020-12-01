@@ -26,7 +26,7 @@ npm init -y
 Now to install TailwindCSS, simply run:
 
 ```
-npm i tailwindcss
+npm install tailwindcss
 ``` 
 
 You can open your package.json and you should see tailwindcss under your dependencies:
@@ -38,7 +38,7 @@ You can open your package.json and you should see tailwindcss under your depende
   "description": "",
   "main": "",
   "dependencies": {
-    "tailwindcss": "^1.7.0"
+    "tailwindcss": "^2.0.1"
   },
   "keywords": [],
   "author": "",
@@ -65,7 +65,7 @@ If you are eager to drop over to your HTML and begin coding, we only need to do 
     "build": "tailwindcss build main.css -o tailwind.css"
   }
 ```
-(you can name the output file anything you want)
+(you can name the output and input file anything you want)
 
 And run this script in your terminal:
 
@@ -94,8 +94,10 @@ npm install @tailwindcss/typography
 Then add the plugin to your tailwind.config.js file:
 
 ```
+// tailwind.config.js
 module.exports = {
   purge: [],
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
   },
