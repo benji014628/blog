@@ -74,7 +74,7 @@ npm run build
 ```
 Congrats! You've now installed TailwindCSS and have it running. Now you might be wondering how to customize these new utilities well in these next steps are for you.
 
-## 4 Create your Tailwind config file (optional)
+## 4. Create your Tailwind config file (optional)
 
 You can generate a config file for your project by typing: 
 
@@ -83,9 +83,9 @@ npx tailwindcss init
 ```
 Hopefully, you see a new `tailwind.config.js` fill pop up in your project and can now start working on your project, unless you want a handy extension, into typography or both! 
 
-## 5 Final Step
+## 5. Final Step
 
-Go over to your activity panel, click on the symbol with those four boxes, and search `Tailwind CSS IntelliSense` and press install. Next to install the typography plugin open up the terminal and type:
+Go over to your activity panel, click on the symbol with those four boxes, and search `Tailwind CSS IntelliSense`, and press install. Next to install the typography plugin open up the terminal and type:
 
 ```
 npm install @tailwindcss/typography
@@ -105,9 +105,10 @@ module.exports = {
   plugins: [require('@tailwindcss/typography')],
 }
 ```
-You've finally set up TailwindCSS with IntelliSense and the typography plugin. Follow these steps for all your future Tailwind projects. 
+You've finally set up your first TailwindCSS project!
 
-Thank you for reading my blog and enjoy coding with your new CSS framework! Feel free to subscribe to my email newsletter and connect on Twitter.
+Thank you for reading my blog and enjoy coding with your new CSS framework! For more info on installation and other documentation head over to https://tailwindcss.com.
+Feel free to subscribe to my email newsletter and connect on Twitter.
 
 
 
