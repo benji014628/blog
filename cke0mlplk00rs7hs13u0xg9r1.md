@@ -1,4 +1,4 @@
-## TailwindCSS Tutorial + IntelliSense & Typography
+## TailwindCSS Tutorial w/ IntelliSense Extension & Official Typography Plugin
 
 You're ready to start on a fresh new project and to use the nifty [utility-first CSS framework Tailwind](https://tailwindcss.com/) with [IntelliSense VS Code extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss/) and the latest [Typography plugin](https://tailwindcss.com/docs/typography-plugin/).
 
