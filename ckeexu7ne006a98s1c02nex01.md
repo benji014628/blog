@@ -10,7 +10,7 @@ Git is known as a distributed version control system or VCS for short. It is a s
 
 GitHub is a hosting platform to upload your local Git repositories where you can interact with yours and other public repositories published by other developers. Any developer can clone remote repositories to their computer, work on a local version of the project, and whenever they're ready, they can make a pull request of those changes. If the owner accepts them, they'll be pushed to the remote repository hosted on GitHub. GitHub is also a popular way for developers to publish their project portfolio online to showcase skills and experience to potential employers or clients.
 
-A cool application that combines both these tools is [GitHub Desktop](https://desktop.github.com) making it easier and faster to see your file changes, add them, commit on them, and push them all in one place.
+A cool application that combines both these tools is [GitHub Desktop](https://desktop.github.com) and recently new [GitHub CLI](https://cli.github.com/manual/) making it easier and faster to see your file changes, add them, commit on them, and push them all in one place.
 
 To learn more, I recommend the following resources:
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
