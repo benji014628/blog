@@ -108,7 +108,7 @@ module.exports = {
 You've finally set up your first TailwindCSS project!
 
 Thank you for reading my blog and enjoy coding with your new CSS framework! For more info on installation and other documentation head over to https://tailwindcss.com.
-Feel free to subscribe to my email newsletter and connect on Twitter.
+Feel free to subscribe to my email newsletter and connect me on [Twitter](https://twitter.com/JakeL725).
 
 
 
